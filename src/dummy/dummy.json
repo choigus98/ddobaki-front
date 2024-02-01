@@ -1,0 +1,21 @@
+{
+	"users": [
+		{
+			"id": 1,
+			"name": "곽만보🧡",
+			"email": "m0000590@naver.com",
+			"profileImg": "/dummy/profile1.png",
+			"birthDay": "1998-09-20"
+		},
+		{
+			"id": 2,
+			"name": "최바보현🧡",
+			"email": "choigu98@icloud.com",
+			"profileImg": "/dummy/profile2.png",
+			"birthDay": "1998-01-23"
+		}
+	],
+	"info": {
+		"startedAt": "2020-10-10 10:00:00"
+	}
+}

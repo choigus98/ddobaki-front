@@ -1,12 +1,16 @@
 import React from 'react';
 
-declare global {
-	interface Window {
-		Kakao: any;
-	}
-}
-
 const Login: React.FC = () => {
+	// const clickLogin = () => {
+	// 	const redirectUri = `${location.origin}/callback/kakaotalk`;
+	// 	const scope = [KAKAO_SCOPE_NICKNAME, KAKAO_SCOPE_GENDER, KAKAO_SCOPE_BIRTHDAY].join(',');
+
+	// 	window.Kakao.Auth.login({
+	// 		redirectUri,
+	// 		scope,
+	// 	});
+	// };
+
 	return (
 		<div className="App">
 			<header className="App-header">
